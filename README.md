@@ -12,5 +12,5 @@ Using the two in conjunction is one of the fastest ways to build a web app.
 - Edit [App.jsx](#src/App.jsx)
 
 
-Note:
-### There's a lot of room for improvement in this code :) 
+**Note:**
+There's a lot of room for improvement in this code :) 
